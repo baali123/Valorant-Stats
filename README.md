@@ -1,5 +1,7 @@
 <h1 align="center" id="title">Valorant Statistics Analysis</h1>
 
+<p align="center"><img src="https://socialify.git.ci/baali123/Valorant-Stats/image?custom_description=A+Detailed+Analysis+of+Gaming+Data+Metrics&description=1&language=1&name=1&owner=1&pattern=Solid&theme=Light" alt="project-image"></p>
+
 
 <p align="justify" id="description">The project is centered around analyzing a dataset within the gaming industry specifically focusing on Valorant. Its main objective is to utilize Microsoft Power BI skills to extract meaningful insights and information for publishers with a primary focus on the statistics of Valorant Champions Tour 2023. The analysis delves into providing insights concerning agents maps players and teams within the game.</p>
 
